@@ -67,6 +67,11 @@ copy public ip and paste it with :50000
 >docker pull localhost:5000/centos
 >docker images
 
+(5th) 
+httpd 
+httpd:2.4
+httpd-80-tcp
+httpd 
 
 (6th Practical.....)
 
